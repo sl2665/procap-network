@@ -3,5 +3,5 @@ Active transcriptional regulatory elements are bidirectionally transcribed, the 
 
 Procap-Networking
 
-<img width="504" alt="image" src="https://user-images.githubusercontent.com/42938330/218497413-7d4aeab3-64a3-41db-a567-e561350cc9a6.png">
+![Screen Shot 2023-08-16 at 3 42 52 PM](https://github.com/sl2665/procap-network/assets/42938330/1b3e1813-5b49-445b-9182-68d53e0f7b1c)
 
